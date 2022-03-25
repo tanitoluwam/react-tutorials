@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Hosting your First Website",
+      "body": "lorem ipsum...",
+      "author": "Tani",
+      "id": 1
+    },
+    {
+      "title": "Creating a Simple Webpage with HTML and CSS",
+      "body": "To create a simple webpage, All you need is a good knowledsge of html and css.To make your code stand out and readable, especially as a junior developer, you need to ensure you follow  html semantics, ie your code is well arranged for easy readability. According to semantics, Every html document consists of three major parts. The header, main and the footer. The header contains the logo, navbar and any other component that will be rendered at the top of your webpage",
+      "author": "Tani",
+      "id": 2
+    },
+    {
+      "title": " hi today",
+      "body": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Id nam\n            soluta exercitationem nisi vel expedita assumenda velit, alias\n            facilis quo reprehenderit sunt aliquam asperiores ipsa?Reiciendis\n            distinctio culpa sunt unde doloremque, totam velit ipsum facilis\n            laudantium aliquam assumenda! At laboriosam deleniti pariatur\n            incidunt explicabo quam iure sint? Quam, culpa quibusdam! Lorem,\n            ipsum dolor sit amet consectetur adipisicing elit. Facere, nam!",
+      "author": " Ore",
+      "id": 31
+    }
+  ]
+}
